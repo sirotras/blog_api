@@ -29,6 +29,7 @@ DATABASE_URL=sqlite:///db.sqlite3
 Make sure the server is working.
 
 ```python
+python manage.py migrate
 python manage.py runserver
 ```
 
