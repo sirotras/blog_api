@@ -2,6 +2,26 @@
 
 This is a blog to learn about DRF
 
+## Features
+
+- Custom user model.
+
+- Unit tests for Post content.
+
+- Post and User serializers render data into JSON.
+
+- View-Level permissions.
+
+- SessionAuth for the Browsable API.
+
+- TokenAuth for the credentials in the  HTTP headers.
+
+- Viewsets for combining the logic for multiple related views.
+
+- Routers uses the viewsets to auto generate URL patterns.
+
+- Schema and documentation.
+
 ## Installation
 
 ### For Development
